@@ -1,6 +1,6 @@
 # k-poznanski.github.io
 ## **My Fantasy**
-Zawsze chciałem być sprzedawcą mikstur
+Zawsze chciałem być sprzedawcą mikstur   
 "Hello, Potion Seller, I am going into battle and I want your strongest potions."
 
 "My potions are too strong for you, traveler."
